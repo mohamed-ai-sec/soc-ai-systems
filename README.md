@@ -1,177 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:e94560&height=210&section=header&text=Mohamed%20Benbouazza&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=SOC%20Systems%20Architect%20%E2%80%94%20Building%20AI%20for%20Cybersecurity%20%E2%9A%A1&descAlignY=60&descSize=15&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:e94560&height=220&section=header&text=Mohamed%20Benbouazza&fontSize=52&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=SOC%20Systems%20Architect%20%E2%80%94%20Building%20AI%20for%20Cybersecurity%20%E2%9A%A1&descAlignY=58&descSize=16&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=E94560&center=true&vCenter=true&width=750&lines=Automating+SOC+workflows+with+AI+agents;Alert+%E2%86%92+Full+IR+Report+in+30+seconds;Real+experiments.+Real+playbooks.+Real+systems.;Not+prompts.+Not+tips.+Not+theory.+Systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1400&color=E94560&center=true&vCenter=true&width=780&lines=Automating+SOC+workflows+with+AI+agents+%E2%9A%A1;Alert+%E2%86%92+Full+IR+Report+in+30+seconds+%F0%9F%9B%A1%EF%B8%8F;Real+experiments.+Real+playbooks.+Real+systems.;Not+prompts.+Not+tips.+Not+theory.+%E2%80%94+Systems." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- ─── REPLACE the 3 URLs below with your real profile links ─── -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://YOUR-SUBSTACK.substack.com)
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-X-HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-ai-sec)
+<!-- ─── REPLACE the 3 URLs below with your actual profile links ─── -->
+<a href="https://www.linkedin.com/in/mohamedbenbouazza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="26"/></a>&nbsp;
+<a href="https://substack.com/@benbouazza"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white&labelColor=FF6719" height="26"/></a>&nbsp;
+<a href="https://x.com/benbouazza_m"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" height="26"/></a>&nbsp;
+<a href="https://github.com/mohamed-ai-sec"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="26"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mohamed-ai-sec&color=e94560&style=flat-square&label=PROFILE+VIEWS" height="22"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/mohamed-ai-sec?style=flat-square&color=e94560&label=TOTAL+STARS&logo=github" height="22"/>
+
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamed-ai-sec&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- ════════════════════ WHOAMI ════════════════════ -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 
----
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vd2hvYW1pPC90ZXh0Pgo8L3N2Zz4=" width="100%"/>
 
-## `> whoami`
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```yaml
-Name     : Mohamed Benbouazza
-Role     : SOC Systems Architect
-Mission  : Turn SOC pain into drop-in AI systems
-Output   : SKILL.md · AI Agents · Automation Workflows
-Standard : Free. Open Source. Drop-in Ready.
-Mantra   : "Not prompts. Not tips. Not theory. Systems."
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  name     :  Mohamed Benbouazza                 │
+│  role     :  SOC Systems Architect              │
+│  mission  :  Turn SOC pain into AI systems      │
+│  output   :  SKILL.md · Agents · Workflows      │
+│  license  :  Free. Open Source. Drop-in ready.  │
+│                                                 │
+└─────────────────────────────────────────────────┘
 ```
 
-I take the most **painful and repetitive problems** in SOC operations and turn them into AI systems analysts can run immediately.
-
-Not a course. Not a thread. Not a prompt list.
-**Executable operational systems.**
+I take the most **painful and repetitive problems** in SOC operations and architect AI systems analysts can deploy immediately.
 
 ```
-Repetitive SOC problem
-        ↓
-AI-native operational system
-        ↓
-Free. Open source. Drop-in ready.
+  Repetitive SOC problem
+          ↓
+  AI-native operational system
+          ↓
+  Free. Open source. Drop-in ready.
 ```
-
----
-
-## `> cat ./NOTICE.md`
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   AI won't replace experts.                                              ║
-║                                                                          ║
-║   Experts who know how to use AI                                         ║
-║   will replace those who don't.                                          ║
-║                                                                          ║
-║   These projects are built to assist you — not to replace you.           ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-> Every system in this repository is designed to **amplify analyst judgment** —
-> not bypass it. The human stays in the loop. The AI handles the repetition.
-
----
-
-## `> ./principles --list`
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### ⚡ SPEED
-Alert → Full IR Report  
-in **30 seconds**
 
 </td>
-<td width="33%" align="center">
+<td width="45%" valign="top">
 
-### 🔁 CONSISTENCY
-Same quality.  
-Every analyst. Every shift.
+<br/>
 
-</td>
-<td width="33%" align="center">
+**⚡ SPEED** — Alert → IR Report in `30 seconds`
 
-### ♾️ LEVERAGE
-One Skill.  
-Zero repetition. Infinite reuse.
+**🔁 CONSISTENCY** — Same quality. Every analyst. Every shift.
+
+**♾️ LEVERAGE** — One Skill. Zero repetition. Infinite reuse.
+
+<br/>
+
+> *"SOC work should behave like*
+> *software engineering.*
+> *Not prompts. Not tips. Not theory.*
+> **Systems.**"
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## `> ls -la ./systems`
+<!-- ════════════════════ AI NOTICE ════════════════════ -->
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pqgPC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vTk9USUNFLm1kPC90ZXh0Pgo8L3N2Zz4=" width="100%"/>
+
+<br/>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iMTQwIiB2aWV3Qm94PSIwIDAgOTAwIDE0MCI+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxNDAiIHJ4PSI2IiBmaWxsPSIjMGQxMTE3IiBzdHJva2U9IiNlOTQ1NjAiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI0IiBoZWlnaHQ9IjE0MCIgcng9IjIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIzNiIgeT0iMzgiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCAnQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNlOTQ1NjAiIG9wYWNpdHk9IjAuNyI+Ly8gTk9USUNFLm1kPC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSI2OCIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsICdDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNSIgZmlsbD0iI2ZmZmZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPkFJIHdvbid0IHJlcGxhY2UgZXhwZXJ0cy48L3RleHQ+CiAgPHRleHQgeD0iMzYiIHk9IjkyIiBmb250LWZhbWlseT0iJ0pldEJyYWlucyBNb25vJywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjYTBjNGZmIj5FeHBlcnRzIHdobyBrbm93IGhvdyB0byB1c2UgQUkgd2lsbCByZXBsYWNlIHRob3NlIHdobyBkb24ndC48L3RleHQ+CiAgPHRleHQgeD0iMzYiIHk9IjExNiIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsICdDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzg4ODg4OCI+VGhlc2UgcHJvamVjdHMgYXJlIGJ1aWx0IHRvIGFzc2lzdCB5b3Ug4oCUIG5vdCB0byByZXBsYWNlIHlvdS48L3RleHQ+Cjwvc3ZnPg==" width="100%"/>
+
+<br/>
+
+> Every system in this repository is designed to **amplify analyst judgment** — not bypass it.
+> The human stays in the loop. The AI eliminates the repetition.
+
+<br/>
+
+<!-- ════════════════════ SYSTEMS ════════════════════ -->
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vc3lzdGVtcyAtLWxpc3Q8L3RleHQ+Cjwvc3ZnPg==" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-| `TYPE` | `WHAT IT IS` | `STATUS` |
-|:---|:---|:---:|
-| 🧠 **SKILL.md** | Drop-in AI skills for Claude.ai Projects | `✅ LIVE` |
-| 🤖 **AI Agents** | Autonomous triage, enrichment & IR response | `✅ LIVE` |
-| ⚙️ **Automation Workflows** | Pipelines eliminating repetitive analyst work | `🔜 SHIPPING` |
-| 📋 **Report Engines** | Raw logs → CISO-ready IR reports | `✅ LIVE` |
-| 🔍 **Detection Pipelines** | KQL · SPL · SIGMA · YARA — auto-generated | `✅ LIVE` |
-| 📖 **SOC Playbooks** | Built for real SOC shift conditions | `🔜 SHIPPING` |
+| &nbsp;&nbsp;&nbsp;`TYPE`&nbsp;&nbsp;&nbsp; | `WHAT IT IS` | `STATUS` |
+|:---:|:---|:---:|
+| 🧠 **SKILL.md** | Drop-in AI skills for Claude.ai Projects | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
+| 🤖 **AI Agents** | Autonomous triage, enrichment & IR response | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
+| ⚙️ **Automation Workflows** | Pipelines that eliminate repetitive analyst work | ![Soon](https://img.shields.io/badge/SHIPPING-0f3460?style=flat-square) |
+| 📋 **Report Engines** | Raw logs → 12-section CISO-ready IR reports | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
+| 🔍 **Detection Pipelines** | KQL · SPL · SIGMA · YARA — auto-generated | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
+| 📖 **SOC Playbooks** | Built for real SOC shift conditions | ![Soon](https://img.shields.io/badge/SHIPPING-0f3460?style=flat-square) |
 
 </div>
 
----
+<br/>
 
-## `> cat ./releases/featured.md`
+<!-- ════════════════════ FEATURED RELEASE ════════════════════ -->
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vcmVsZWFzZXMvZmVhdHVyZWQ8L3RleHQ+Cjwvc3ZnPg==" width="100%"/>
+
+<br/>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║            🛡️  SOC AUTO-REPORT ENGINE  v3.1.0                           ║
-║                                                                          ║
-║   Paste any security artifact                                            ║
-║   → Generate a 12-section CISO-ready Incident Report in 30 seconds      ║
-╚══════════════════════════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║   🛡️  SOC AUTO-REPORT ENGINE  ·  v3.1.0                                 ║
+ ║                                                                          ║
+ ║   Paste any security artifact                                            ║
+ ║   → 12-section CISO-ready Incident Report · Generated in 30 seconds     ║
+ ║                                                                          ║
+ ║   30-rule zero-hallucination enforcement framework                       ║
+ ║   Zero invented data. Ever.                                              ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-### `INPUT`
+**`INPUT — Accepts any security artifact`**
+
 ```
-Any log · Alert · EDR event
-Cloud audit trail
-Email header
-SIEM correlation alert
-Raw security artifact
+· Raw log or alert
+· EDR / XDR event
+· Cloud audit trail (AWS · Azure · GCP)
+· Email header
+· SIEM correlation cluster
 ```
 
-### `OUTPUT`
+**`OUTPUT — Full operational package`**
+
 ```
-12-section IR Report
-Post-Incident Review (PIR)
-KQL · SPL · EQL queries
-SIGMA & YARA rules
-Stakeholder communications
-  ├── Executive brief
-  ├── Regulatory notification
-  └── Internal staff update
+· 12-section Incident Report
+· Post-Incident Review (PIR)
+· KQL · SPL · EQL detection queries
+· SIGMA & YARA rules
+· Stakeholder communications
+    ├─ Executive brief
+    ├─ Regulatory notification
+    └─ Internal staff update
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-### `ENFORCEMENT`
-```
-30-rule zero-hallucination framework
-Zero invented data. Ever.
-```
+**`AUTO-DELIVERS on every run`**
 
-### `AUTO-DELIVERS`
-- ✅ **MITRE ATT&CK** v16/v18/v19 mapped
-- ✅ **KQL · SPL · EQL · SIGMA · YARA** generated
-- ✅ **Blast Radius** — 8 dimensions assessed
-- ✅ **PIR template** pre-populated
-- ✅ **D3FEND** countermeasures overlaid
-- ✅ **Claude.ai Skills** compatible
-- ✅ **agentskills.io** compliant
+| | |
+|:---:|:---|
+| ✅ | **MITRE ATT&CK** v16 / v18 / v19 mapped |
+| ✅ | **KQL · SPL · EQL · SIGMA · YARA** generated |
+| ✅ | **Blast Radius** — 8 dimensions assessed |
+| ✅ | **PIR template** pre-populated |
+| ✅ | **D3FEND** countermeasures overlaid |
+| ✅ | **Stakeholder comms** generated |
+| ✅ | **Claude.ai Skills** compatible |
+| ✅ | **agentskills.io** compliant |
 
 </td>
 </tr>
@@ -179,75 +191,122 @@ Zero invented data. Ever.
 
 <div align="center">
 
-[![View Repo](https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-e94560?style=for-the-badge)](https://github.com/mohamed-ai-sec/soc-auto-report-skill)
-[![License](https://img.shields.io/github/license/mohamed-ai-sec/soc-auto-report-skill?style=for-the-badge&color=238636)](https://github.com/mohamed-ai-sec/soc-auto-report-skill/blob/main/LICENSE)
+[![View Repository](https://img.shields.io/badge/🔗%20SOC--AUTO--REPORT--SKILL-e94560?style=for-the-badge)](https://github.com/mohamed-ai-sec/soc-auto-report-skill)&nbsp;
+[![License](https://img.shields.io/github/license/mohamed-ai-sec/soc-auto-report-skill?style=for-the-badge&color=238636&label=LICENSE)](https://github.com/mohamed-ai-sec/soc-auto-report-skill/blob/main/LICENSE)&nbsp;
+[![Stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-auto-report-skill?style=for-the-badge&color=0f3460&label=STARS)](https://github.com/mohamed-ai-sec/soc-auto-report-skill/stargazers)
 
 </div>
 
----
+<br/>
 
-## `> git log --oneline ./roadmap`
+<!-- ════════════════════ ROADMAP ════════════════════ -->
 
-```bash
-✅ soc-auto-report-skill/          → IR report engine             [LIVE]
-🔜 soc-triage-skill/               → Alert triage automation      [NEXT]
-🔜 soc-phishing-skill/             → Phishing analysis pipeline   [NEXT]
-🔜 soc-threat-hunt-skill/          → Threat hunting workflow      [NEXT]
-🔜 soc-enrichment-agent/           → IOC enrichment agent         [NEXT]
-🔜 soc-detection-engineer-skill/   → Detection rule generator     [NEXT]
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vcm9hZG1hcDwvdGV4dD4KPC9zdmc+" width="100%"/>
+
+<br/>
+
+```python
+# Every SOC problem becomes a system. Every system ships free.
+
+SHIPPED  = [
+    "soc-auto-report-skill/     → IR report engine                [v3.1.0]",
+]
+
+IN_PROGRESS = [
+    "soc-triage-skill/          → Alert triage automation         [NEXT]",
+    "soc-phishing-skill/        → Phishing analysis pipeline      [NEXT]",
+    "soc-threat-hunt-skill/     → Threat hunting workflow         [NEXT]",
+    "soc-enrichment-agent/      → IOC enrichment agent            [NEXT]",
+    "soc-detection-engineer-skill/ → Detection rule generator     [NEXT]",
+]
 ```
 
-> **Every SOC problem becomes a system. Every system ships free.**
+<br/>
 
----
+<!-- ════════════════════ AUDIENCE ════════════════════ -->
 
-## `> grep -r "this_is_for" ./docs`
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vZG9jcy9hdWRpZW5jZTwvdGV4dD4KPC9zdmc+" width="100%"/>
+
+<br/>
 
 <div align="center">
 
 | WHO | WHY |
 |:---|:---|
-| ✅ **L1 / L2 / L3 SOC Analysts** | Tired of repetitive manual work |
-| ✅ **Detection Engineers** | Who think in systems and pipelines |
-| ✅ **Security Team Leads** | Scaling operations without adding headcount |
-| ✅ **CISOs** | Building AI-native ops without vendor lock-in |
-| ✅ **Blue Teamers** | Who believe SOC work should behave like software |
+| 🔵 **L1 / L2 / L3 SOC Analysts** | Tired of repetitive manual work that adds zero security value |
+| 🔵 **Detection Engineers** | Who think in systems, pipelines, and reusable logic |
+| 🔵 **Security Team Leads** | Scaling operations without adding headcount |
+| 🔵 **CISOs** | Building AI-native operations without vendor lock-in |
+| 🔵 **Blue Teamers** | Who believe SOC work should behave like software engineering |
 
 </div>
 
----
+<br/>
 
-## `> tail -f ./experiments/live_feed`
+<!-- ════════════════════ WHERE I SHARE ════════════════════ -->
 
-> *"I share real SOC experiments, playbooks, and failures.
-> No theory — only systems that actually work.
-> For analysts who want to think, not just click."*
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vZXhwZXJpbWVudHMvbGl2ZV9mZWVkPC90ZXh0Pgo8L3N2Zz4=" width="100%"/>
+
+<br/>
+
+> *"I share real SOC experiments, playbooks, and failures.*
+> *No theory — only systems that actually work.*
+> *For analysts who want to think, not just click."*
+
+<br/>
 
 <div align="center">
 
-| PLATFORM | WHAT YOU GET |
-|:---:|:---|
-| 📰 **Substack** | Deep dives · Skill releases · Build-in-public logs |
-| 💼 **LinkedIn** | SOC automation demos · Workflow transformations |
-| 🐦 **X / Twitter** | Detection engineering threads · Quick operational tips |
+<table>
+<tr>
+<td align="center" width="33%">
+
+📰 **Substack**
+
+Deep dives · Skill releases<br/>Build-in-public logs
+
+<!-- REPLACE URL below -->
+[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-FF6719?style=flat-square&logo=substack&logoColor=white)](https://YOUR-SUBSTACK.substack.com)
+
+</td>
+<td align="center" width="33%">
+
+💼 **LinkedIn**
+
+SOC automation demos<br/>Workflow transformations
+
+<!-- REPLACE URL below -->
+[![Connect](https://img.shields.io/badge/CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+
+</td>
+<td align="center" width="33%">
+
+🐦 **X / Twitter**
+
+Detection engineering threads<br/>Quick operational tips
+
+<!-- REPLACE URL below -->
+[![Follow](https://img.shields.io/badge/FOLLOW-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR-X-HANDLE)
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## `> top --github`
+<!-- ════════════════════ STATS ════════════════════ -->
 
-<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vc3RhdHM8L3RleHQ+Cjwvc3ZnPg==" width="100%"/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mohamed-ai-sec&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=e94560&title_color=e94560&icon_color=a0c4ff&text_color=ffffff&count_private=true&include_all_commits=true"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ai-sec&layout=compact&theme=github_dark&bg_color=0d1117&border_color=e94560&title_color=e94560&text_color=ffffff&langs_count=6"/>
-
-</div>
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed-ai-sec&theme=github-dark-blue&background=0d1117&border=e94560&ring=e94560&fire=ff9a3c&currStreakLabel=a0c4ff&sideLabels=ffffff&dates=888888"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-ai-sec&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=e94560&icon_color=a0c4ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ai-sec&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=e94560&text_color=c9d1d9&hide_border=false&langs_count=6"/>
 
 </div>
 
@@ -255,48 +314,58 @@ Zero invented data. Ever.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ai-sec&bg_color=0d1117&color=a0c4ff&line=e94560&point=ffffff&area=true&border_color=e94560" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed-ai-sec&theme=github-dark-blue&background=0d1117&border=30363d&ring=e94560&fire=ff9a3c&currStreakLabel=a0c4ff&sideLabels=c9d1d9&dates=8b949e&stroke=30363d"/>
 
 </div>
 
----
+<br/>
 
-## `> cat ./PHILOSOPHY.md`
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ai-sec&bg_color=0d1117&color=a0c4ff&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=false&border_color=30363d&radius=6" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════ PHILOSOPHY ════════════════════ -->
+
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vUEhJTE9TT1BIWS5tZDwvdGV4dD4KPC9zdmc+" width="100%"/>
+
+<br/>
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   SOC work should behave like software engineering.                  │
-│                                                                      │
-│   ├── Reusable modules                                               │
-│   ├── Versioned logic                                                │
-│   ├── Scalable systems                                               │
-│   └── Automation-first thinking                                      │
-│                                                                      │
-│   Not prompts.   Not tips.   Not theory.                             │
-│                                                                      │
-│                            S Y S T E M S .                           │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+ ┌────────────────────────────────────────────────────────────────────────┐
+ │                                                                        │
+ │   SOC work should behave like software engineering.                    │
+ │                                                                        │
+ │        Reusable modules  ·  Versioned logic  ·  Scalable systems       │
+ │                    Automation-first thinking                           │
+ │                                                                        │
+ │          Not prompts.       Not tips.       Not theory.                │
+ │                                                                        │
+ │                         S Y S T E M S .                                │
+ │                                                                        │
+ └────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
 > ⭐ **If a repository saves your team time, star it.**
-> That is the only metric that matters.
+> *That is the only metric that matters.*
 
 </div>
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:0f3460,100:0d1117&height=130&section=footer&text=Building%20AI%20for%20Cybersecurity%20%E2%9A%A1&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<!-- ════════════════════ FOOTER ════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,40:0a1628,100:0d1117&height=140&section=footer&text=Built%20in%20public.%20Shipped%20free.%20For%20analysts%20who%20think%20in%20systems.&fontSize=14&fontColor=8b949e&fontAlignY=55&reversal=true" width="100%"/>
 
 <div align="center">
 
-*Built in public. Shipped free. For analysts who think in systems.*
-
-**Mohamed Benbouazza** · SOC Systems Architect · [github.com/mohamed-ai-sec](https://github.com/mohamed-ai-sec)
+**Mohamed Benbouazza** &nbsp;·&nbsp; SOC Systems Architect &nbsp;·&nbsp; [`github.com/mohamed-ai-sec`](https://github.com/mohamed-ai-sec)
 
 </div>
