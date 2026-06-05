@@ -10,7 +10,6 @@
 
 <br/><br/>
 
-<!-- ─── REPLACE the 3 URLs below with your actual profile links ─── -->
 <a href="https://www.linkedin.com/in/mohamedbenbouazza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="26"/></a>&nbsp;
 <a href="https://substack.com/@benbouazza"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white&labelColor=FF6719" height="26"/></a>&nbsp;
 <a href="https://x.com/benbouazza_m"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" height="26"/></a>&nbsp;
@@ -26,11 +25,9 @@
 
 <br/>
 
-<!-- ════════════════════ WHOAMI ════════════════════ -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
-
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vd2hvYW1pPC90ZXh0Pgo8L3N2Zz4=" width="100%"/>
+## `~/whoami`
 
 <br/>
 
@@ -73,8 +70,7 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 
 <br/>
 
-> *"SOC work should behave like*
-> *software engineering.*
+> *"SOC work should behave like software engineering.*
 > *Not prompts. Not tips. Not theory.*
 > **Systems.**"
 
@@ -84,30 +80,37 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 
 <br/>
 
-<!-- ════════════════════ AI NOTICE ════════════════════ -->
+---
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pqgPC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vTk9USUNFLm1kPC90ZXh0Pgo8L3N2Zz4=" width="100%"/>
-
-<br/>
-
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iMTQwIiB2aWV3Qm94PSIwIDAgOTAwIDE0MCI+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxNDAiIHJ4PSI2IiBmaWxsPSIjMGQxMTE3IiBzdHJva2U9IiNlOTQ1NjAiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI0IiBoZWlnaHQ9IjE0MCIgcng9IjIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIzNiIgeT0iMzgiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCAnQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiNlOTQ1NjAiIG9wYWNpdHk9IjAuNyI+Ly8gTk9USUNFLm1kPC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSI2OCIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsICdDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNSIgZmlsbD0iI2ZmZmZmZiIgZm9udC13ZWlnaHQ9ImJvbGQiPkFJIHdvbid0IHJlcGxhY2UgZXhwZXJ0cy48L3RleHQ+CiAgPHRleHQgeD0iMzYiIHk9IjkyIiBmb250LWZhbWlseT0iJ0pldEJyYWlucyBNb25vJywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjYTBjNGZmIj5FeHBlcnRzIHdobyBrbm93IGhvdyB0byB1c2UgQUkgd2lsbCByZXBsYWNlIHRob3NlIHdobyBkb24ndC48L3RleHQ+CiAgPHRleHQgeD0iMzYiIHk9IjExNiIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsICdDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzg4ODg4OCI+VGhlc2UgcHJvamVjdHMgYXJlIGJ1aWx0IHRvIGFzc2lzdCB5b3Ug4oCUIG5vdCB0byByZXBsYWNlIHlvdS48L3RleHQ+Cjwvc3ZnPg==" width="100%"/>
+## `~/NOTICE.md`
 
 <br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   AI won't replace experts.                                          ║
+║   Experts who know how to use AI will replace those who don't.       ║
+║                                                                      ║
+║   These projects are built to assist you — not to replace you.       ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 > Every system in this repository is designed to **amplify analyst judgment** — not bypass it.
 > The human stays in the loop. The AI eliminates the repetition.
 
 <br/>
 
-<!-- ════════════════════ SYSTEMS ════════════════════ -->
+---
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vc3lzdGVtcyAtLWxpc3Q8L3RleHQ+Cjwvc3ZnPg==" width="100%"/>
+## `~/systems --list`
 
 <br/>
 
 <div align="center">
 
-| &nbsp;&nbsp;&nbsp;`TYPE`&nbsp;&nbsp;&nbsp; | `WHAT IT IS` | `STATUS` |
+| &nbsp;&nbsp;`TYPE`&nbsp;&nbsp; | `WHAT IT IS` | `STATUS` |
 |:---:|:---|:---:|
 | 🧠 **SKILL.md** | Drop-in AI skills for Claude.ai Projects | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
 | 🤖 **AI Agents** | Autonomous triage, enrichment & IR response | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
@@ -120,9 +123,9 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 
 <br/>
 
-<!-- ════════════════════ FEATURED RELEASE ════════════════════ -->
+---
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vcmVsZWFzZXMvZmVhdHVyZWQ8L3RleHQ+Cjwvc3ZnPg==" width="100%"/>
+## `~/releases/featured`
 
 <br/>
 
@@ -199,33 +202,35 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 
 <br/>
 
-<!-- ════════════════════ ROADMAP ════════════════════ -->
+---
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vcm9hZG1hcDwvdGV4dD4KPC9zdmc+" width="100%"/>
+## `~/roadmap`
 
 <br/>
 
 ```python
 # Every SOC problem becomes a system. Every system ships free.
 
-SHIPPED  = [
-    "soc-auto-report-skill/     → IR report engine                [v3.1.0]",
+SHIPPED = [
+    "soc-auto-report-skill/        → IR report engine                [v3.1.0]",
+    "soc-detection-engineer-skill/ → Detection rule generator        [LIVE]",
+    "sentinel-soc-ai/              → Sentinel SOC AI                 [LIVE]",
+    "soc-ai-systems/               → AI systems framework            [LIVE]",
 ]
 
 IN_PROGRESS = [
-    "soc-triage-skill/          → Alert triage automation         [NEXT]",
-    "soc-phishing-skill/        → Phishing analysis pipeline      [NEXT]",
-    "soc-threat-hunt-skill/     → Threat hunting workflow         [NEXT]",
-    "soc-enrichment-agent/      → IOC enrichment agent            [NEXT]",
-    "soc-detection-engineer-skill/ → Detection rule generator     [NEXT]",
+    "soc-triage-skill/             → Alert triage automation         [NEXT]",
+    "soc-phishing-skill/           → Phishing analysis pipeline      [NEXT]",
+    "soc-threat-hunt-skill/        → Threat hunting workflow         [NEXT]",
+    "soc-enrichment-agent/         → IOC enrichment agent            [NEXT]",
 ]
 ```
 
 <br/>
 
-<!-- ════════════════════ AUDIENCE ════════════════════ -->
+---
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vZG9jcy9hdWRpZW5jZTwvdGV4dD4KPC9zdmc+" width="100%"/>
+## `~/docs/audience`
 
 <br/>
 
@@ -243,9 +248,9 @@ IN_PROGRESS = [
 
 <br/>
 
-<!-- ════════════════════ WHERE I SHARE ════════════════════ -->
+---
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vZXhwZXJpbWVudHMvbGl2ZV9mZWVkPC90ZXh0Pgo8L3N2Zz4=" width="100%"/>
+## `~/experiments/live_feed`
 
 <br/>
 
@@ -265,8 +270,7 @@ IN_PROGRESS = [
 
 Deep dives · Skill releases<br/>Build-in-public logs
 
-<!-- REPLACE URL below -->
-[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-FF6719?style=flat-square&logo=substack&logoColor=white)](https://YOUR-SUBSTACK.substack.com)
+[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@benbouazza)
 
 </td>
 <td align="center" width="33%">
@@ -275,8 +279,7 @@ Deep dives · Skill releases<br/>Build-in-public logs
 
 SOC automation demos<br/>Workflow transformations
 
-<!-- REPLACE URL below -->
-[![Connect](https://img.shields.io/badge/CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Connect](https://img.shields.io/badge/CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedbenbouazza/)
 
 </td>
 <td align="center" width="33%">
@@ -285,8 +288,7 @@ SOC automation demos<br/>Workflow transformations
 
 Detection engineering threads<br/>Quick operational tips
 
-<!-- REPLACE URL below -->
-[![Follow](https://img.shields.io/badge/FOLLOW-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR-X-HANDLE)
+[![Follow](https://img.shields.io/badge/FOLLOW-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/benbouazza_m)
 
 </td>
 </tr>
@@ -296,9 +298,9 @@ Detection engineering threads<br/>Quick operational tips
 
 <br/>
 
-<!-- ════════════════════ STATS ════════════════════ -->
+---
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vc3RhdHM8L3RleHQ+Cjwvc3ZnPg==" width="100%"/>
+## `~/stats`
 
 <br/>
 
@@ -328,9 +330,9 @@ Detection engineering threads<br/>Quick operational tips
 
 <br/>
 
-<!-- ════════════════════ PHILOSOPHY ════════════════════ -->
+---
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA5MDAgNDQiPgogIDxyZWN0IHg9IjAiIHk9IjgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMzIiIHJ4PSI0IiBmaWxsPSIjMGQxMTE3Ii8+CiAgPHJlY3QgeD0iMCIgeT0iOCIgd2lkdGg9IjMiIGhlaWdodD0iMzIiIGZpbGw9IiNlOTQ1NjAiLz4KICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZvbnQtZmFtaWx5PSInSmV0QnJhaW5zIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZTk0NTYwIiBmb250LXdlaWdodD0iYm9sZCI+4pa4PC90ZXh0PgogIDx0ZXh0IHg9IjM2IiB5PSIyOSIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiPn4vUEhJTE9TT1BIWS5tZDwvdGV4dD4KPC9zdmc+" width="100%"/>
+## `~/PHILOSOPHY.md`
 
 <br/>
 
@@ -360,7 +362,7 @@ Detection engineering threads<br/>Quick operational tips
 
 <br/>
 
-<!-- ════════════════════ FOOTER ════════════════════ -->
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,40:0a1628,100:0d1117&height=140&section=footer&text=Built%20in%20public.%20Shipped%20free.%20For%20analysts%20who%20think%20in%20systems.&fontSize=14&fontColor=8b949e&fontAlignY=55&reversal=true" width="100%"/>
 
