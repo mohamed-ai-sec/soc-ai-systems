@@ -1,26 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:e94560&height=220&section=header&text=Mohamed%20Benbouazza&fontSize=52&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=SOC%20Systems%20Architect%20%E2%80%94%20Building%20AI%20for%20Cybersecurity%20%E2%9A%A1&descAlignY=58&descSize=16&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:e94560&height=200&section=header&text=Mohamed%20Benbouazza&fontSize=48&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=SOC%20Systems%20Architect%20%E2%80%94%20I%20turn%20SOC%20repetition%20into%20AI%20systems%20analysts%20actually%20use&descAlignY=60&descSize=14&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+
+</div>
 
 <br/>
 
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1400&color=E94560&center=true&vCenter=true&width=780&lines=Automating+SOC+workflows+with+AI+agents+%E2%9A%A1;Alert+%E2%86%92+Full+IR+Report+in+30+seconds+%F0%9F%9B%A1%EF%B8%8F;Real+experiments.+Real+playbooks.+Real+systems.;Not+prompts.+Not+tips.+Not+theory.+%E2%80%94+Systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1400&color=E94560&center=true&vCenter=true&width=820&lines=SOC+work+should+behave+like+software+engineering.;Not+prompts.+Not+tips.+Not+theory.+%E2%80%94+Systems.;5+AI+systems+shipped.+Free.+Open+source.+Drop-in+ready.;Alert+%E2%86%92+TP%2FFP+Verdict+%E2%86%92+IR+Report+%E2%86%92+Detection+Rule+%E2%80%94+automated." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+</div>
 
-<a href="https://www.linkedin.com/in/mohamedbenbouazza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="26"/></a>&nbsp;
-<a href="https://substack.com/@benbouazza"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white&labelColor=FF6719" height="26"/></a>&nbsp;
-<a href="https://x.com/benbouazza_m"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" height="26"/></a>&nbsp;
-<a href="https://linktr.ee/mbenbouazzam"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" height="26"/></a>&nbsp;
-<a href="https://github.com/mohamed-ai-sec"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="26"/></a>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mohamed-ai-sec&color=e94560&style=flat-square&label=PROFILE+VIEWS" height="22"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedbenbouazza/)&nbsp;
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@benbouazza)&nbsp;
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/benbouazza_m)&nbsp;
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/mbenbouazzam)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamed-ai-sec)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mbenbouazzam@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamed-ai-sec&color=e94560&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;
-<img src="https://img.shields.io/github/stars/mohamed-ai-sec?style=flat-square&color=e94560&label=TOTAL+STARS&logo=github" height="22"/>
+[![Open to Remote MSSP Roles](https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Remote%20MSSP%20%2F%20SOC%20Roles-238636?style=flat-square)](mailto:mbenbouazzam@gmail.com)
 
 </div>
 
@@ -34,49 +43,54 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ```yaml
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  name     :  Mohamed Benbouazza                 │
-│  role     :  SOC Systems Architect              │
-│  location :  Morocco                            │
-│  mission  :  Turn SOC pain into AI systems      │
-│  output   :  SKILL.md · Agents · Workflows      │
-│  license  :  Free. Open Source. Drop-in ready.  │
-│                                                 │
-└─────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  name      :  Mohamed Benbouazza                 │
+│  role      :  SOC Systems Architect              │
+│  location  :  Morocco  ·  Remote-first           │
+│  focus     :  AI × SOC Automation                │
+│  output    :  SKILL.md · Agents · Pipelines      │
+│  standard  :  agentskills.io compliant           │
+│  license   :  Free. Open Source. Drop-in ready.  │
+│                                                  │
+└──────────────────────────────────────────────────┘
 ```
 
-I take the most **painful and repetitive problems** in SOC operations and architect AI systems analysts can deploy immediately.
+I architect AI systems for the most **painful, repetitive problems** in SOC operations — systems analysts can deploy in under 60 seconds, without vendor lock-in, without prompt engineering expertise.
 
 ```
-  Repetitive SOC problem
-          ↓
+  Raw alert or log
+       ↓
   AI-native operational system
-          ↓
-  Free. Open source. Drop-in ready.
+       ↓
+  Verdict · Report · Detection Rule
+  — generated. Not typed.
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
 <br/>
 
-**⚡ SPEED** — Alert → IR Report in `30 seconds`
-
-**🔁 CONSISTENCY** — Same quality. Every analyst. Every shift.
-
-**♾️ LEVERAGE** — One Skill. Zero repetition. Infinite reuse.
-
-**🛡️ COVERAGE** — L1/L2/L3 triage · Detection Eng · IR · Threat Hunt
-
-<br/>
-
-> *"SOC work should behave like software engineering.*
-> *Not prompts. Not tips. Not theory.*
-> **Systems.**"
+```
+ ┌─────────────────────────────────────────┐
+ │                                         │
+ │   SOC work should behave like           │
+ │   software engineering.                 │
+ │                                         │
+ │   Reusable modules.                     │
+ │   Versioned logic.                      │
+ │   Scalable systems.                     │
+ │                                         │
+ │   Not prompts.  Not tips.  Not theory.  │
+ │                                         │
+ │              S Y S T E M S .            │
+ │                                         │
+ └─────────────────────────────────────────┘
+```
 
 </td>
 </tr>
@@ -86,23 +100,41 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 
 ---
 
-## `~/NOTICE.md`
+## `~/stack`
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   AI won't replace experts.                                          ║
-║   Experts who know how to use AI will replace those who don't.       ║
-║                                                                      ║
-║   These projects are built to assist you — not to replace you.       ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-> Every system in this repository is designed to **amplify analyst judgment** — not bypass it.
-> The human stays in the loop. The AI eliminates the repetition.
+**Detection & Query Languages**
+
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)&nbsp;
+![SPL](https://img.shields.io/badge/SPL-FF4500?style=flat-square&logo=splunk&logoColor=white)&nbsp;
+![Sigma](https://img.shields.io/badge/Sigma-4A90D9?style=flat-square&logoColor=white)&nbsp;
+![EQL](https://img.shields.io/badge/EQL-00BFB3?style=flat-square&logo=elastic&logoColor=white)&nbsp;
+![YARA](https://img.shields.io/badge/YARA-E94560?style=flat-square&logoColor=white)
+
+**Platforms & Frameworks**
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)&nbsp;
+![Defender XDR](https://img.shields.io/badge/Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white)&nbsp;
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E94560?style=flat-square&logoColor=white)&nbsp;
+![D3FEND](https://img.shields.io/badge/D3FEND-1a1a2e?style=flat-square&logoColor=white)
+
+**AI & Automation**
+
+![Claude AI](https://img.shields.io/badge/Claude%20AI-E8630A?style=flat-square&logoColor=white)&nbsp;
+![SKILL.md](https://img.shields.io/badge/SKILL.md-agentskills.io-238636?style=flat-square)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logoColor=white)
+
+**Incident Response**
+
+![IR Reporting](https://img.shields.io/badge/IR%20Reporting-0f3460?style=flat-square)&nbsp;
+![MSSP SLA](https://img.shields.io/badge/MSSP%20SLA%20Compliance-238636?style=flat-square)&nbsp;
+![Phishing Forensics](https://img.shields.io/badge/Phishing%20Forensics-e94560?style=flat-square)
+
+</div>
 
 <br/>
 
@@ -114,14 +146,13 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 
 <div align="center">
 
-| &nbsp;&nbsp;`TYPE`&nbsp;&nbsp; | `WHAT IT IS` | `STATUS` |
-|:---:|:---|:---:|
-| 🧠 **SKILL.md** | Drop-in AI skills for Claude.ai Projects | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
-| 🤖 **AI Agents** | Autonomous triage, enrichment & IR response | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
-| ⚙️ **Automation Workflows** | Pipelines that eliminate repetitive analyst work | ![Shipping](https://img.shields.io/badge/SHIPPING-0f3460?style=flat-square) |
-| 📋 **Report Engines** | Raw logs → 12-section CISO-ready IR reports | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
-| 🔍 **Detection Pipelines** | KQL · SPL · SIGMA · YARA — auto-generated | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
-| 🎯 **Triage Engines** | MSSP-grade TP/FP verdict with MITRE mapping | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
+| `REPO` | `WHAT IT SOLVES` | `CORE OUTPUT` | `STATUS` |
+|:---|:---|:---|:---:|
+| [**soc-auto-report-skill**](https://github.com/mohamed-ai-sec/soc-auto-report-skill) | IR reporting takes hours — costs SLAs | 12-section CISO-ready report in 30s | ![v3.1.0](https://img.shields.io/badge/v3.1.0-238636?style=flat-square) |
+| [**soc-l1-triage-engine**](https://github.com/mohamed-ai-sec/soc-l1-triage-engine) | L1 analysts waste time on FP alerts | Confidence-scored TP/FP verdict + MITRE map | ![v1.0.0](https://img.shields.io/badge/v1.0.0-238636?style=flat-square) |
+| [**soc-detection-engineer-skill**](https://github.com/mohamed-ai-sec/soc-detection-engineer-skill) | Detection rules take days to write correctly | KQL · SPL · Sigma · EQL — structured draft | ![LIVE](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
+| [**sentinel-soc-ai**](https://github.com/mohamed-ai-sec/sentinel-soc-ai) | No senior analyst available on every shift | L1/L2/L3 AI analyst — always on | ![LIVE](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
+| [**soc-ai-systems**](https://github.com/mohamed-ai-sec/soc-ai-systems) | No standard for packaging SOC AI workflows | Master SKILL.md framework + full docs | ![LIVE](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
 
 </div>
 
@@ -133,162 +164,50 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 
 <br/>
 
-<div align="center">
-
-```
- ╔══════════════════════════════════════════════════════════════════════════╗
- ║   🛡️  SOC AUTO-REPORT ENGINE  ·  v3.1.0                                 ║
- ║                                                                          ║
- ║   Paste any security artifact                                            ║
- ║   → 12-section CISO-ready Incident Report · Generated in 30 seconds     ║
- ║                                                                          ║
- ║   30-rule zero-hallucination enforcement framework                       ║
- ║   Zero invented data. Ever.                                              ║
- ╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<table>
-<tr>
-<td width="48%" valign="top">
-
-**`INPUT — Accepts any security artifact`**
-
-```
-· Raw log or alert
-· EDR / XDR event
-· Cloud audit trail (AWS · Azure · GCP)
-· Email header
-· SIEM correlation cluster
-```
-
-**`OUTPUT — Full operational package`**
-
-```
-· 12-section Incident Report
-· Post-Incident Review (PIR)
-· KQL · SPL · EQL detection queries
-· SIGMA & YARA rules
-· Stakeholder communications
-    ├─ Executive brief
-    ├─ Regulatory notification
-    └─ Internal staff update
-```
-
-</td>
-<td width="52%" valign="top">
-
-**`AUTO-DELIVERS on every run`**
-
-| | |
-|:---:|:---|
-| ✅ | **MITRE ATT&CK** v16 / v18 / v19 mapped |
-| ✅ | **KQL · SPL · EQL · SIGMA · YARA** generated |
-| ✅ | **Blast Radius** — 8 dimensions assessed |
-| ✅ | **PIR template** pre-populated |
-| ✅ | **D3FEND** countermeasures overlaid |
-| ✅ | **Stakeholder comms** generated |
-| ✅ | **Claude.ai Skills** compatible |
-| ✅ | **agentskills.io** compliant |
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/🔗%20SOC--AUTO--REPORT--SKILL-e94560?style=for-the-badge)](https://github.com/mohamed-ai-sec/soc-auto-report-skill)&nbsp;
-[![License](https://img.shields.io/github/license/mohamed-ai-sec/soc-auto-report-skill?style=for-the-badge&color=238636&label=LICENSE)](https://github.com/mohamed-ai-sec/soc-auto-report-skill/blob/main/LICENSE)&nbsp;
-[![Stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-auto-report-skill?style=for-the-badge&color=0f3460&label=STARS)](https://github.com/mohamed-ai-sec/soc-auto-report-skill/stargazers)
-
-</div>
-
-<br/>
-
----
-
-## `~/releases/all --shipped`
-
-<br/>
-
-<div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 [`soc-l1-triage-engine`](https://github.com/mohamed-ai-sec/soc-l1-triage-engine)
-![Version](https://img.shields.io/badge/v1.0.0-238636?style=flat-square) ![Status](https://img.shields.io/badge/LIVE-238636?style=flat-square)
+### 🛡️ [`soc-auto-report-skill`](https://github.com/mohamed-ai-sec/soc-auto-report-skill) — `v3.1.0`
 
-**Elite SOC L1 TP/FP Verdict Engine**
+Paste **any** security artifact. Get a production IR report in 30 seconds.
 
-MSSP-grade alert triage skill for Claude.ai.
-5-Dimension Context Engine · Per-alert-type playbooks · Confidence-scored verdicts · MITRE ATT&CK mapped · Built for SLA compliance.
+**Input accepts:**
+- Raw logs · EDR/XDR events · Email headers
+- SIEM correlation clusters · Cloud audit trails
 
-```
-Alert in → TP/FP verdict out
-Close or escalate — decided in seconds
-```
+**Output delivers:**
+- 12-section Incident Report + PIR
+- KQL · SPL · EQL · SIGMA · YARA
+- Executive brief · Regulatory notice · Staff update
+- MITRE ATT&CK v19 · D3FEND overlay
+- 30-rule zero-hallucination enforcement
 
-[![View](https://img.shields.io/badge/VIEW%20REPO-0f3460?style=flat-square)](https://github.com/mohamed-ai-sec/soc-l1-triage-engine)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 [`soc-detection-engineer-skill`](https://github.com/mohamed-ai-sec/soc-detection-engineer-skill)
-![Status](https://img.shields.io/badge/LIVE-238636?style=flat-square)
-
-**AI Detection Engineering — Multi-Platform**
-
-Generates structured detection drafts across KQL, Sigma, SPL, and EQL with MITRE ATT&CK mapping, validation logic, and full SOC lifecycle documentation.
-
-```
-Threat intel in → Detection rule out
-KQL · SPL · SIGMA · EQL
-```
-
-[![View](https://img.shields.io/badge/VIEW%20REPO-0f3460?style=flat-square)](https://github.com/mohamed-ai-sec/soc-detection-engineer-skill)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [`sentinel-soc-ai`](https://github.com/mohamed-ai-sec/sentinel-soc-ai)
-![Status](https://img.shields.io/badge/LIVE-238636?style=flat-square)
-
-**Elite SOC Analyst AI System**
-
-L1/L2/L3 triage · Phishing forensics · MITRE ATT&CK mapping · KQL/SPL detection. A battle-tested AI system prompt for real SOC environments.
-
-```
-Your AI analyst. Always on shift.
-```
-
-[![View](https://img.shields.io/badge/VIEW%20REPO-0f3460?style=flat-square)](https://github.com/mohamed-ai-sec/sentinel-soc-ai)
+[![Repo](https://img.shields.io/badge/VIEW%20REPO-e94560?style=flat-square)](https://github.com/mohamed-ai-sec/soc-auto-report-skill)&nbsp;[![Stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-auto-report-skill?style=flat-square&color=0f3460)](https://github.com/mohamed-ai-sec/soc-auto-report-skill/stargazers)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [`soc-ai-systems`](https://github.com/mohamed-ai-sec/soc-ai-systems)
-![Status](https://img.shields.io/badge/LIVE-238636?style=flat-square)
+### 🎯 [`soc-l1-triage-engine`](https://github.com/mohamed-ai-sec/soc-l1-triage-engine) — `v1.0.0`
 
-**SOC AI Systems Framework**
+MSSP-grade **TP/FP verdict engine** for L1 analysts. No more guessing. No more unnecessary escalations.
 
-The master framework for turning repetitive SOC operations into drop-in AI systems using SKILL.md, AI agents, automation workflows, and IR engines.
+**Covers every alert type:**
+- Phishing · Malware · C2 beaconing · Brute force
+- Lateral movement · Exfiltration · Priv escalation
+- Suspicious PowerShell · Anomalous login · DLP · Cloud
 
-```
-The foundation. Everything else builds on this.
-```
+**Verdict engine:**
+- 5-Dimension Context Analysis
+- Confidence-scored TP / FP / Needs-Escalation
+- Per-alert-type playbooks · MITRE ATT&CK mapped
+- Built for MSSP SLA compliance
 
-[![View](https://img.shields.io/badge/VIEW%20REPO-0f3460?style=flat-square)](https://github.com/mohamed-ai-sec/soc-ai-systems)
+[![Repo](https://img.shields.io/badge/VIEW%20REPO-e94560?style=flat-square)](https://github.com/mohamed-ai-sec/soc-l1-triage-engine)&nbsp;[![Stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-l1-triage-engine?style=flat-square&color=0f3460)](https://github.com/mohamed-ai-sec/soc-l1-triage-engine/stargazers)
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
@@ -302,53 +221,51 @@ The foundation. Everything else builds on this.
 # Every SOC problem becomes a system. Every system ships free.
 
 SHIPPED = [
-    "soc-auto-report-skill/          → IR report engine                [v3.1.0]",
-    "soc-l1-triage-engine/           → L1 TP/FP verdict engine         [v1.0.0]",
-    "soc-detection-engineer-skill/   → Detection rule generator        [LIVE]  ",
-    "sentinel-soc-ai/                → Sentinel SOC AI analyst         [LIVE]  ",
-    "soc-ai-systems/                 → AI systems framework            [LIVE]  ",
+    "soc-auto-report-skill         →  IR report engine              [v3.1.0]",
+    "soc-l1-triage-engine          →  L1 TP/FP verdict engine       [v1.0.0]",
+    "soc-detection-engineer-skill  →  Detection rule generator      [LIVE]  ",
+    "sentinel-soc-ai               →  SOC AI analyst system         [LIVE]  ",
+    "soc-ai-systems                →  Master AI framework           [LIVE]  ",
 ]
 
-IN_PROGRESS = [
-    "soc-phishing-skill/             → Phishing analysis pipeline      [NEXT]",
-    "soc-threat-hunt-skill/          → Threat hunting workflow         [NEXT]",
-    "soc-enrichment-agent/           → IOC enrichment agent            [NEXT]",
-    "soc-playbooks/                  → Built for real SOC shift ops    [NEXT]",
+NEXT = [
+    "soc-phishing-skill            →  Phishing analysis pipeline    [Q3-2026]",
+    "soc-enrichment-agent          →  Autonomous IOC enrichment     [Q3-2026]",
 ]
+
+STANDARD = "agentskills.io — all skills versioned, documented, drop-in ready"
 ```
 
 <br/>
 
 ---
 
-## `~/docs/audience`
+## `~/how-to-deploy`
 
 <br/>
 
-<div align="center">
+> Drop any skill into a Claude.ai Project in under 60 seconds:
 
-| WHO | WHY |
-|:---|:---|
-| 🔵 **L1 / L2 / L3 SOC Analysts** | Tired of repetitive manual work that adds zero security value |
-| 🔵 **Detection Engineers** | Who think in systems, pipelines, and reusable logic |
-| 🔵 **Security Team Leads** | Scaling operations without adding headcount |
-| 🔵 **CISOs** | Building AI-native operations without vendor lock-in |
-| 🔵 **MSSPs** | Delivering consistent SLA-compliant triage at scale |
-| 🔵 **Blue Teamers** | Who believe SOC work should behave like software engineering |
+```bash
+# 1. Open Claude.ai → Create a new Project
+# 2. Go to Project Instructions
+# 3. Paste the contents of SKILL.md
+# 4. Done. Your AI SOC system is live.
 
-</div>
+# No API keys. No infrastructure. No configuration.
+# Works immediately. For every analyst on your team.
+```
 
 <br/>
 
 ---
 
-## `~/experiments/live_feed`
+## `~/content`
 
 <br/>
 
-> *"I share real SOC experiments, playbooks, and failures.*
-> *No theory — only systems that actually work.*
-> *For analysts who want to think, not just click."*
+> *Real SOC experiments. Real playbooks. Real failures.*
+> *For analysts who want to think — not just click.*
 
 <br/>
 
@@ -360,7 +277,7 @@ IN_PROGRESS = [
 
 📰 **Substack**
 
-Deep dives · Skill releases<br/>Build-in-public logs
+Deep dives · Skill release notes<br/>Build-in-public logs
 
 [![Subscribe](https://img.shields.io/badge/SUBSCRIBE-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@benbouazza)
 
@@ -369,18 +286,18 @@ Deep dives · Skill releases<br/>Build-in-public logs
 
 💼 **LinkedIn**
 
-SOC automation demos<br/>Workflow transformations
+SOC automation demos<br/>Detection engineering breakdowns
 
 [![Connect](https://img.shields.io/badge/CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedbenbouazza/)
 
 </td>
 <td align="center" width="33%">
 
-🌐 **Linktree**
+🐦 **X / Twitter**
 
-All links · All platforms<br/>One place
+Detection engineering threads<br/>Operational tips · Live experiments
 
-[![Links](https://img.shields.io/badge/ALL%20LINKS-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/mbenbouazzam)
+[![Follow](https://img.shields.io/badge/FOLLOW-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/benbouazza_m)
 
 </td>
 </tr>
@@ -392,74 +309,19 @@ All links · All platforms<br/>One place
 
 ---
 
-## `~/stats`
-
-<br/>
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-ai-sec&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=e94560&icon_color=a0c4ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ai-sec&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=e94560&text_color=c9d1d9&hide_border=false&langs_count=6"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed-ai-sec&theme=github-dark-blue&background=0d1117&border=30363d&ring=e94560&fire=ff9a3c&currStreakLabel=a0c4ff&sideLabels=c9d1d9&dates=8b949e&stroke=30363d"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ai-sec&bg_color=0d1117&color=a0c4ff&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=false&border_color=30363d&radius=6" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-## `~/PHILOSOPHY.md`
-
-<br/>
-
-<div align="center">
-
-```
- ┌────────────────────────────────────────────────────────────────────────┐
- │                                                                        │
- │   SOC work should behave like software engineering.                    │
- │                                                                        │
- │        Reusable modules  ·  Versioned logic  ·  Scalable systems       │
- │                    Automation-first thinking                           │
- │                                                                        │
- │          Not prompts.       Not tips.       Not theory.                │
- │                                                                        │
- │                         S Y S T E M S .                                │
- │                                                                        │
- └────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-> ⭐ **If a repository saves your team time, star it.**
+> ⭐ **If a system saves your team time, star it.**
 > *That is the only metric that matters.*
 
 </div>
 
 <br/>
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,40:0a1628,100:0d1117&height=140&section=footer&text=Built%20in%20public.%20Shipped%20free.%20For%20analysts%20who%20think%20in%20systems.&fontSize=14&fontColor=8b949e&fontAlignY=55&reversal=true" width="100%"/>
 
 <div align="center">
 
-**Mohamed Benbouazza** &nbsp;·&nbsp; SOC Systems Architect &nbsp;·&nbsp; [`github.com/mohamed-ai-sec`](https://github.com/mohamed-ai-sec)
+**Mohamed Benbouazza** &nbsp;·&nbsp; SOC Systems Architect &nbsp;·&nbsp; Morocco &nbsp;·&nbsp; [`github.com/mohamed-ai-sec`](https://github.com/mohamed-ai-sec) &nbsp;·&nbsp; [mbenbouazzam@gmail.com](mailto:mbenbouazzam@gmail.com)
 
 </div>
