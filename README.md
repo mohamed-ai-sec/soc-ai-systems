@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/mohamedbenbouazza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="26"/></a>&nbsp;
 <a href="https://substack.com/@benbouazza"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white&labelColor=FF6719" height="26"/></a>&nbsp;
 <a href="https://x.com/benbouazza_m"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" height="26"/></a>&nbsp;
+<a href="https://linktr.ee/mbenbouazzam"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" height="26"/></a>&nbsp;
 <a href="https://github.com/mohamed-ai-sec"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="26"/></a>
 
 <br/><br/>
@@ -40,6 +41,7 @@
 │                                                 │
 │  name     :  Mohamed Benbouazza                 │
 │  role     :  SOC Systems Architect              │
+│  location :  Morocco                            │
 │  mission  :  Turn SOC pain into AI systems      │
 │  output   :  SKILL.md · Agents · Workflows      │
 │  license  :  Free. Open Source. Drop-in ready.  │
@@ -67,6 +69,8 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 **🔁 CONSISTENCY** — Same quality. Every analyst. Every shift.
 
 **♾️ LEVERAGE** — One Skill. Zero repetition. Infinite reuse.
+
+**🛡️ COVERAGE** — L1/L2/L3 triage · Detection Eng · IR · Threat Hunt
 
 <br/>
 
@@ -114,10 +118,10 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 |:---:|:---|:---:|
 | 🧠 **SKILL.md** | Drop-in AI skills for Claude.ai Projects | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
 | 🤖 **AI Agents** | Autonomous triage, enrichment & IR response | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
-| ⚙️ **Automation Workflows** | Pipelines that eliminate repetitive analyst work | ![Soon](https://img.shields.io/badge/SHIPPING-0f3460?style=flat-square) |
+| ⚙️ **Automation Workflows** | Pipelines that eliminate repetitive analyst work | ![Shipping](https://img.shields.io/badge/SHIPPING-0f3460?style=flat-square) |
 | 📋 **Report Engines** | Raw logs → 12-section CISO-ready IR reports | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
 | 🔍 **Detection Pipelines** | KQL · SPL · SIGMA · YARA — auto-generated | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
-| 📖 **SOC Playbooks** | Built for real SOC shift conditions | ![Soon](https://img.shields.io/badge/SHIPPING-0f3460?style=flat-square) |
+| 🎯 **Triage Engines** | MSSP-grade TP/FP verdict with MITRE mapping | ![Live](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
 
 </div>
 
@@ -204,6 +208,92 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 
 ---
 
+## `~/releases/all --shipped`
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [`soc-l1-triage-engine`](https://github.com/mohamed-ai-sec/soc-l1-triage-engine)
+![Version](https://img.shields.io/badge/v1.0.0-238636?style=flat-square) ![Status](https://img.shields.io/badge/LIVE-238636?style=flat-square)
+
+**Elite SOC L1 TP/FP Verdict Engine**
+
+MSSP-grade alert triage skill for Claude.ai.
+5-Dimension Context Engine · Per-alert-type playbooks · Confidence-scored verdicts · MITRE ATT&CK mapped · Built for SLA compliance.
+
+```
+Alert in → TP/FP verdict out
+Close or escalate — decided in seconds
+```
+
+[![View](https://img.shields.io/badge/VIEW%20REPO-0f3460?style=flat-square)](https://github.com/mohamed-ai-sec/soc-l1-triage-engine)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [`soc-detection-engineer-skill`](https://github.com/mohamed-ai-sec/soc-detection-engineer-skill)
+![Status](https://img.shields.io/badge/LIVE-238636?style=flat-square)
+
+**AI Detection Engineering — Multi-Platform**
+
+Generates structured detection drafts across KQL, Sigma, SPL, and EQL with MITRE ATT&CK mapping, validation logic, and full SOC lifecycle documentation.
+
+```
+Threat intel in → Detection rule out
+KQL · SPL · SIGMA · EQL
+```
+
+[![View](https://img.shields.io/badge/VIEW%20REPO-0f3460?style=flat-square)](https://github.com/mohamed-ai-sec/soc-detection-engineer-skill)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [`sentinel-soc-ai`](https://github.com/mohamed-ai-sec/sentinel-soc-ai)
+![Status](https://img.shields.io/badge/LIVE-238636?style=flat-square)
+
+**Elite SOC Analyst AI System**
+
+L1/L2/L3 triage · Phishing forensics · MITRE ATT&CK mapping · KQL/SPL detection. A battle-tested AI system prompt for real SOC environments.
+
+```
+Your AI analyst. Always on shift.
+```
+
+[![View](https://img.shields.io/badge/VIEW%20REPO-0f3460?style=flat-square)](https://github.com/mohamed-ai-sec/sentinel-soc-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [`soc-ai-systems`](https://github.com/mohamed-ai-sec/soc-ai-systems)
+![Status](https://img.shields.io/badge/LIVE-238636?style=flat-square)
+
+**SOC AI Systems Framework**
+
+The master framework for turning repetitive SOC operations into drop-in AI systems using SKILL.md, AI agents, automation workflows, and IR engines.
+
+```
+The foundation. Everything else builds on this.
+```
+
+[![View](https://img.shields.io/badge/VIEW%20REPO-0f3460?style=flat-square)](https://github.com/mohamed-ai-sec/soc-ai-systems)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
 ## `~/roadmap`
 
 <br/>
@@ -212,17 +302,18 @@ I take the most **painful and repetitive problems** in SOC operations and archit
 # Every SOC problem becomes a system. Every system ships free.
 
 SHIPPED = [
-    "soc-auto-report-skill/        → IR report engine                [v3.1.0]",
-    "soc-detection-engineer-skill/ → Detection rule generator        [LIVE]",
-    "sentinel-soc-ai/              → Sentinel SOC AI                 [LIVE]",
-    "soc-ai-systems/               → AI systems framework            [LIVE]",
+    "soc-auto-report-skill/          → IR report engine                [v3.1.0]",
+    "soc-l1-triage-engine/           → L1 TP/FP verdict engine         [v1.0.0]",
+    "soc-detection-engineer-skill/   → Detection rule generator        [LIVE]  ",
+    "sentinel-soc-ai/                → Sentinel SOC AI analyst         [LIVE]  ",
+    "soc-ai-systems/                 → AI systems framework            [LIVE]  ",
 ]
 
 IN_PROGRESS = [
-    "soc-triage-skill/             → Alert triage automation         [NEXT]",
-    "soc-phishing-skill/           → Phishing analysis pipeline      [NEXT]",
-    "soc-threat-hunt-skill/        → Threat hunting workflow         [NEXT]",
-    "soc-enrichment-agent/         → IOC enrichment agent            [NEXT]",
+    "soc-phishing-skill/             → Phishing analysis pipeline      [NEXT]",
+    "soc-threat-hunt-skill/          → Threat hunting workflow         [NEXT]",
+    "soc-enrichment-agent/           → IOC enrichment agent            [NEXT]",
+    "soc-playbooks/                  → Built for real SOC shift ops    [NEXT]",
 ]
 ```
 
@@ -242,6 +333,7 @@ IN_PROGRESS = [
 | 🔵 **Detection Engineers** | Who think in systems, pipelines, and reusable logic |
 | 🔵 **Security Team Leads** | Scaling operations without adding headcount |
 | 🔵 **CISOs** | Building AI-native operations without vendor lock-in |
+| 🔵 **MSSPs** | Delivering consistent SLA-compliant triage at scale |
 | 🔵 **Blue Teamers** | Who believe SOC work should behave like software engineering |
 
 </div>
@@ -284,11 +376,11 @@ SOC automation demos<br/>Workflow transformations
 </td>
 <td align="center" width="33%">
 
-🐦 **X / Twitter**
+🌐 **Linktree**
 
-Detection engineering threads<br/>Quick operational tips
+All links · All platforms<br/>One place
 
-[![Follow](https://img.shields.io/badge/FOLLOW-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/benbouazza_m)
+[![Links](https://img.shields.io/badge/ALL%20LINKS-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/mbenbouazzam)
 
 </td>
 </tr>
