@@ -26,13 +26,25 @@ Network-trained cybersecurity technician, Morocco. I turn repetitive SOC work in
 
 ---
 
-## The systems, in one picture
+## The pipeline
 
-<div align="center">
+```mermaid
+flowchart LR
+    A["<b>INPUT</b><br/>raw alert · EDR event<br/>SIEM log · email header"] --> B["<b>01 TRIAGE</b><br/>soc-l1-triage-engine<br/>TP / FP / Escalate"]
+    B -->|escalate| C["<b>02 REPORT</b><br/>soc-auto-report-skill<br/>12-section IR report"]
+    C --> D["<b>03 DETECT</b><br/>soc-detection-engineer-skill<br/>KQL · SPL · Sigma · EQL"]
+    B -->|close| E["Closed with<br/>evidence note"]
+    S["<b>ALWAYS ON</b><br/>sentinel-soc-ai<br/>L1 / L2 / L3 analyst persona"] -.->|works alongside| B
 
-<img src="assets/pipeline.gif" alt="One alert flows through triage, report and detection systems, with an always-on analyst persona underneath" width="100%"/>
+    style A fill:#161b22,stroke:#30363d,color:#e6edf3
+    style B fill:#161b22,stroke:#E8630A,stroke-width:2px,color:#e6edf3
+    style C fill:#161b22,stroke:#E8630A,stroke-width:2px,color:#e6edf3
+    style D fill:#161b22,stroke:#E8630A,stroke-width:2px,color:#e6edf3
+    style E fill:#161b22,stroke:#30363d,color:#8b949e
+    style S fill:#161b22,stroke:#E8630A,stroke-dasharray: 5 5,color:#e6edf3
+```
 
-</div>
+*Illustrative flow. Each system also works on its own. Fixed output formats; the analyst reviews and makes the call.*
 
 | System | Problem it targets | Output | Activity |
 |:---|:---|:---|:---|
@@ -44,23 +56,53 @@ Network-trained cybersecurity technician, Morocco. I turn repetitive SOC work in
 
 ---
 
-## Use them in Claude
+## Install in Claude
 
-<div align="center">
+```mermaid
+flowchart LR
+    A["<b>1</b><br/>Customize"] --> B["<b>2</b><br/>Skills"] --> C["<b>3</b><br/>+"] --> D["<b>4</b><br/>Create skill"] --> E["<b>5</b><br/>Upload a skill<br/>(.zip)"] --> F["<b>6</b><br/>Toggle ON"] --> G["<b>7</b><br/>Ask Claude"]
 
-<img src="assets/install-in-claude.gif" alt="Four steps: open Customize then Skills, plus then Create skill, upload the zip, toggle on and ask" width="100%"/>
+    style A fill:#161b22,stroke:#30363d,color:#e6edf3
+    style B fill:#161b22,stroke:#30363d,color:#e6edf3
+    style C fill:#161b22,stroke:#E8630A,color:#e6edf3
+    style D fill:#161b22,stroke:#E8630A,color:#e6edf3
+    style E fill:#161b22,stroke:#E8630A,stroke-width:2px,color:#e6edf3
+    style F fill:#161b22,stroke:#238636,stroke-width:2px,color:#e6edf3
+    style G fill:#161b22,stroke:#238636,stroke-width:2px,color:#e6edf3
+```
 
-</div>
+1. Open **Customize → Skills** in Claude. Code execution and file creation must be on. *(Older versions: Settings → Capabilities → Skills.)*
+2. Click **+**, then **Create skill**, then **Upload a skill**.
+3. Upload the ZIP. Toggle the skill on.
+4. Ask: *"Use soc-l1-triage-engine on this alert: …"*
 
-1. **Open Customize → Skills** in Claude. Code execution and file creation must be on. *(Older versions: Settings → Capabilities → Skills.)*
-2. Click **+**, then **Create skill**.
-3. Choose **Upload a skill** and upload the ZIP.
-4. Toggle it on. Then ask: *"Use soc-l1-triage-engine on this alert: …"*
+**The ZIP must look like this:**
 
-**If the upload fails, it's almost always one of these:**
-- The ZIP must contain the skill folder as its root, with `SKILL.md` inside it.
-- The folder name must match the skill `name`. GitHub's **Download ZIP** names the root `repo-main`, so rename the folder first, then zip it again.
-- Skills you upload are private to your account and don't sync between claude.ai, Claude Code and the API.
+```text
+soc-l1-triage-engine.zip
+└── soc-l1-triage-engine/        ← folder name = skill name
+    └── SKILL.md                 ← needs name + description
+```
+
+**`SKILL.md` starts with:**
+
+```yaml
+---
+name: soc-l1-triage-engine
+description: Triage SOC alerts into TP / FP / Escalate verdicts with evidence and MITRE mapping.
+---
+```
+
+**If the upload fails, it's usually one of these:**
+
+| Cause | Fix |
+|:---|:---|
+| Root folder name doesn't match `name` | GitHub's **Download ZIP** names it `repo-main`. Rename the folder, then zip again. |
+| Files sit in the ZIP root | Put them inside one skill folder. |
+| File isn't called `SKILL.md` | Rename it. |
+| Invalid characters in name or description | Keep the name lowercase with hyphens. |
+
+Skills you upload are private to your account and don't sync between claude.ai, Claude Code and the API.
 
 ---
 
