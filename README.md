@@ -1,288 +1,126 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0a1628,100:E8630A&height=190&section=header&text=Mohamed%20Benbouazza&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=SOC%20Systems%20Architect%20%7C%20AI-assisted%20Security%20Operations&descAlignY=60&descSize=15&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0a1628,100:E8630A&height=200&section=header&text=Mohamed%20Benbouazza&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=SOC%20Systems%20Architect%20%E2%80%94%20AI%20systems%20for%20the%20repetitive%20half%20of%20SOC%20work&descAlignY=60&descSize=15&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
-### Building AI-assisted systems for repetitive SOC operations.
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=16&pause=1400&color=E8630A&center=true&vCenter=true&width=820&lines=A+prompt+is+a+tool.+A+SKILL.md+is+infrastructure.;Alert+%E2%86%92+TP%2FFP+verdict+%E2%86%92+IR+report+%E2%86%92+detection+rule.;5+open-source+SOC+systems.+Documented.+Versioned." alt="A prompt is a tool. A SKILL.md is infrastructure." />
 
-I turn security alerts, investigation artifacts and detection requirements into structured, reviewable workflows.
+<br/><br/>
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/mohamedbenbouazza/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square)](https://substack.com/@benbouazza)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square)](https://x.com/benbouazza_m)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat-square)](https://linktr.ee/mbenbouazzam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square)](mailto:mbenbouazzam@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedbenbouazza/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamed-ai-sec)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@benbouazza)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/benbouazza_m)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mbenbouazzam@gmail.com)
-
-[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-SOC%20%2F%20MSSP%20ROLES-238636?style=flat-square)](mailto:mbenbouazzam@gmail.com)
+[![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-Remote%20SOC%20%2F%20MSSP%20roles-238636?style=flat-square)](mailto:mbenbouazzam@gmail.com)
 
 </div>
 
 ---
 
-## About
+## Who I am
 
-I'm Mohamed, a cybersecurity technician with a networking background, based in Morocco.
-
-My focus is building practical AI-assisted systems for Security Operations Centers (SOC).
-
-I work on a simple problem: security analysts spend significant time repeating operational tasks that can be structured, documented and assisted by reusable workflows.
-
-My projects explore how **Claude, AI agents, `SKILL.md`, explicit rules and structured workflows** can support:
-
-- Security alert triage.
-- Incident investigation and reporting.
-- Detection engineering.
-- Phishing analysis.
-- Repeatable SOC procedures.
-
-The goal isn't to replace the analyst. It's to make the first pass more consistent, explainable and easier to review.
-
-## Open-source SOC systems
-
-Five repositories. Five different responsibilities within security operations.
-
-| Repository | Purpose | Main output |
-|---|---|---|
-| [soc-l1-triage-engine](https://github.com/mohamed-ai-sec/soc-l1-triage-engine) | Structured L1 alert investigation | TP / FP / Escalate verdict, evidence and confidence |
-| [sentinel-soc-ai](https://github.com/mohamed-ai-sec/sentinel-soc-ai) | Broader SOC analyst assistance | L1 / L2 / L3 investigation guidance |
-| [soc-auto-report-skill](https://github.com/mohamed-ai-sec/soc-auto-report-skill) | Incident documentation | Structured 12-section incident report |
-| [soc-detection-engineer-skill](https://github.com/mohamed-ai-sec/soc-detection-engineer-skill) | Detection engineering assistance | KQL, SPL, Sigma, EQL and other detection drafts |
-| [soc-ai-systems](https://github.com/mohamed-ai-sec/soc-ai-systems) | Reusable SOC AI workflow foundation | Skill framework and documentation |
+Network-trained cybersecurity technician, Morocco. I turn repetitive SOC work into open-source AI systems: analysts decide, systems do the first pass.
 
 ---
 
-## System architecture
+## Systems
 
-The projects address different stages of SOC operations. They are complementary standalone systems, not an already-integrated automated platform.
+| System | Problem it targets | Output | Activity |
+|:---|:---|:---|:---|
+| [**soc-l1-triage-engine**](https://github.com/mohamed-ai-sec/soc-l1-triage-engine) | L1 time lost on false positives | TP / FP / Ambiguous verdict, confidence X/5, MITRE mapping, escalation or closure note | ![stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-l1-triage-engine?style=flat-square&color=E8630A) ![commit](https://img.shields.io/github/last-commit/mohamed-ai-sec/soc-l1-triage-engine?style=flat-square) |
+| [**soc-auto-report-skill**](https://github.com/mohamed-ai-sec/soc-auto-report-skill) | IR reporting takes hours and costs SLAs | 12-section report + PIR, detection queries, executive brief, regulatory notice, staff update | ![stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-auto-report-skill?style=flat-square&color=E8630A) ![commit](https://img.shields.io/github/last-commit/mohamed-ai-sec/soc-auto-report-skill?style=flat-square) |
+| [**soc-detection-engineer-skill**](https://github.com/mohamed-ai-sec/soc-detection-engineer-skill) | Detection rules take days to write correctly | Structured draft rules in KQL, SPL, Sigma, EQL | ![stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-detection-engineer-skill?style=flat-square&color=E8630A) ![commit](https://img.shields.io/github/last-commit/mohamed-ai-sec/soc-detection-engineer-skill?style=flat-square) |
+| [**sentinel-soc-ai**](https://github.com/mohamed-ai-sec/sentinel-soc-ai) | No senior analyst on every shift | L1 / L2 / L3 AI analyst | ![stars](https://img.shields.io/github/stars/mohamed-ai-sec/sentinel-soc-ai?style=flat-square&color=E8630A) ![commit](https://img.shields.io/github/last-commit/mohamed-ai-sec/sentinel-soc-ai?style=flat-square) |
+| [**soc-ai-systems**](https://github.com/mohamed-ai-sec/soc-ai-systems) | No standard way to package SOC AI workflows | Master `SKILL.md` framework and docs | ![stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-ai-systems?style=flat-square&color=E8630A) ![commit](https://img.shields.io/github/last-commit/mohamed-ai-sec/soc-ai-systems?style=flat-square) |
 
-<div align="center">
-
-<img src="assets/soc-systems-overview.gif" width="100%" alt="SOC systems architecture: alert intake, triage, incident reporting, detection engineering, SENTINEL analyst assistance and human review"/>
-
-</div>
-
-### How the workflow works
+Typical order of use. Each skill also works on its own.
 
 ```mermaid
-flowchart TD
-    A["SECURITY INPUT<br/>SIEM Alert · EDR Event · Logs · Email"]
-    B["01 — ALERT TRIAGE<br/>soc-l1-triage-engine"]
-    C["ASSESSMENT<br/>TP / FP / Escalate"]
-    D["02 — INCIDENT REPORTING<br/>soc-auto-report-skill"]
-    E["03 — DETECTION ENGINEERING<br/>soc-detection-engineer-skill"]
-    F["ANALYST REVIEW<br/>Verify Evidence · Investigate · Decide"]
-    S["SENTINEL<br/>L1 / L2 / L3 Analyst Assistance"]
-    R["SOC-AI-SYSTEMS<br/>Reusable Skill Foundation"]
-
-    A --> B --> C
-    C -->|Further investigation| D
-    D --> E
-    C --> F
-    D --> F
-    E --> F
-    S -.-> B
-    S -.-> F
-    R -.-> B
-    R -.-> D
-    R -.-> E
-
-    style A fill:#161b22,stroke:#8b949e,color:#fff
-    style B fill:#161b22,stroke:#E8630A,color:#fff
-    style C fill:#161b22,stroke:#E8630A,color:#fff
-    style D fill:#161b22,stroke:#E8630A,color:#fff
-    style E fill:#161b22,stroke:#E8630A,color:#fff
-    style F fill:#161b22,stroke:#238636,color:#fff
-    style S fill:#161b22,stroke:#8b949e,color:#fff
-    style R fill:#161b22,stroke:#8b949e,color:#fff
+flowchart LR
+    A["Alert or log"] --> B["soc-l1-triage-engine<br/>verdict"]
+    B --> C["soc-auto-report-skill<br/>incident report"]
+    C --> D["soc-detection-engineer-skill<br/>detection rules"]
 ```
 
-### 01. SOC L1 Triage Engine
-
-**Repository:** [soc-l1-triage-engine](https://github.com/mohamed-ai-sec/soc-l1-triage-engine)
-
-A structured approach to evaluating SOC alerts before escalation or closure.
-
-Key capabilities:
-
-- Five-dimensional context evaluation.
-- True Positive / False Positive / Escalate verdicts.
-- Confidence assessment.
-- MITRE ATT&CK mapping.
-- Alert-specific investigation playbooks.
-- Evidence-based reasoning.
-
-**Problem addressed:** Repetitive L1 alert analysis and inconsistent triage decisions.
-
-### 02. SENTINEL — SOC Analyst AI
-
-**Repository:** [sentinel-soc-ai](https://github.com/mohamed-ai-sec/sentinel-soc-ai)
-
-A broader analyst-assistance framework designed around SOC investigation workflows.
-
-Key capabilities:
-
-- L1 / L2 / L3 investigation guidance.
-- Phishing investigation.
-- Security event analysis.
-- KQL and SPL assistance.
-- Explicit investigation and enforcement rules.
-
-**Problem addressed:** Providing structured investigation guidance across different SOC responsibilities.
-
-### 03. SOC Auto-Report Engine
-
-**Repository:** [soc-auto-report-skill](https://github.com/mohamed-ai-sec/soc-auto-report-skill)
-
-A reporting workflow that organizes supplied security artifacts into structured incident documentation.
-
-Key capabilities:
-
-- 12-section incident report.
-- Executive summary.
-- Incident timeline.
-- IOC documentation.
-- Detection recommendations.
-- Multiple security data formats.
-
-**Problem addressed:** Repetitive incident documentation and the time required to prepare consistent reports.
-
-### 04. SOC Detection Engineer Skill
-
-**Repository:** [soc-detection-engineer-skill](https://github.com/mohamed-ai-sec/soc-detection-engineer-skill)
-
-A detection engineering assistant for structuring detection logic and rule development.
-
-Supported detection formats and technologies include:
-
-- KQL
-- SPL
-- Sigma
-- EQL
-- YARA
-- Zeek
-- Falco
-- auditd
-
-Key focus areas:
-
-- Detection logic.
-- Telemetry assessment.
-- Input confidence.
-- Rule validation.
-- False-positive considerations.
-
-**Problem addressed:** Making detection engineering workflows more structured, transparent and reviewable.
-
-### 05. SOC AI Systems
-
-**Repository:** [soc-ai-systems](https://github.com/mohamed-ai-sec/soc-ai-systems)
-
-The reusable foundation behind my approach to packaging SOC AI workflows.
-
-Focus areas:
-
-- `SKILL.md` structure.
-- Reusable instructions.
-- Documentation.
-- Workflow organization.
-- Open-source distribution.
-
-**Problem addressed:** Making SOC AI workflows easier to package, understand and reuse.
+Each repo has a **How it works** diagram:
+[triage engine](https://github.com/mohamed-ai-sec/soc-l1-triage-engine#how-it-works) ·
+[report skill](https://github.com/mohamed-ai-sec/soc-auto-report-skill#how-it-works) ·
+[how a skill runs](https://github.com/mohamed-ai-sec/soc-ai-systems#how-a-skill-runs-in-claude)
 
 ---
 
-## Engineering principles
+## Install in Claude
 
-I build around a few rules:
+1. Open **Customize → Skills**. Code execution and file creation must be on. *(Older versions: Settings → Capabilities → Skills.)*
+2. Click **+**, then **Create skill**, then **Upload a skill**.
+3. Upload the ZIP and toggle the skill on.
+4. Ask: *"Use soc-l1-triage-engine on this alert: …"*
 
-| Principle | Implementation |
-|---|---|
-| Evidence first | Conclusions must be supported by supplied evidence. |
-| No invented IOCs | Missing indicators remain missing. |
-| No fabricated timestamps | Unknown timestamps are not reconstructed as facts. |
-| Visible uncertainty | Distinguish observed, suspected, confirmed and unknown. |
-| Structured output | Use defined formats for repeatable results. |
-| Human oversight | Analysts verify findings and make security decisions. |
+The ZIP needs the skill folder as its root:
 
-**AI assists the investigation. The analyst owns the decision.**
+```text
+soc-l1-triage-engine.zip
+└── soc-l1-triage-engine/        folder name = skill name
+    └── SKILL.md
+```
 
-## Technology stack
+| If the upload fails | Fix |
+|:---|:---|
+| Root folder name doesn't match the skill `name` | GitHub's **Download ZIP** names it `repo-main`. Rename the folder, then zip it again. |
+| Files sit directly in the ZIP root | Put them inside one skill folder. |
+| The file isn't called `SKILL.md` | Rename it. |
+| Invalid characters in name or description | Use lowercase letters, numbers and hyphens in the name. |
 
-<div align="center">
+Uploaded skills are private to your account and don't sync between claude.ai, Claude Code and the API.
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
-![SKILL.md](https://img.shields.io/badge/SKILL.md-agentskills.io-238636?style=flat-square)
+---
+
+## How they're built
+
+- **Plain text.** Every rule lives in a `SKILL.md` you can read, diff and change.
+- **Defined structure.** The triage engine, for example, runs fixed phases (intake, five-dimension context, playbook, score, close-out) and always ends in the same verdict report.
+- **Evidence before verdict.** The skills tell you what to check. You run the lookups and paste the results.
+
+## Limits
+
+- They don't connect to your SIEM or run threat-intel lookups.
+- Output depends on the context you paste in.
+- Confidence scores are a triage aid. Review before you close a ticket or send a report.
+- They don't replace L2 investigation.
+
+Caught a wrong verdict? Open an issue with a sanitized sample. Those are the most useful contributions.
+
+---
+
+## Stack
+
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square)
 ![SPL](https://img.shields.io/badge/SPL-FF4500?style=flat-square)
 ![Sigma](https://img.shields.io/badge/Sigma-4A90D9?style=flat-square)
 ![EQL](https://img.shields.io/badge/EQL-00BFB3?style=flat-square)
 ![YARA](https://img.shields.io/badge/YARA-E8630A?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E8630A?style=flat-square)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Defender XDR](https://img.shields.io/badge/Defender%20XDR-0078D4?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E8630A?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![SKILL.md](https://img.shields.io/badge/SKILL.md-agentskills.io-238636?style=flat-square)
 
-</div>
+## On the list
 
-## Installation and usage
+`soc-phishing-skill` (phishing analysis pipeline) · `soc-enrichment-agent` (IOC enrichment)
 
-Each repository contains its own source files and installation instructions.
+## Writing
 
-For projects packaged as Claude Skills:
-
-1. Open the repository.
-2. Read its installation instructions.
-3. Inspect the `SKILL.md` and supporting files.
-4. Follow the documented installation method.
-5. Provide a sanitized security artifact.
-6. Review the generated output against the original evidence.
-
-Start with the [SOC L1 Triage Engine](https://github.com/mohamed-ai-sec/soc-l1-triage-engine).
-
-Installation requirements can differ between projects.
-
-## Development roadmap
-
-- [ ] Publish reproducible demonstrations for each project.
-- [ ] Expand phishing investigation workflows.
-- [ ] Add more sanitized investigation examples.
-- [ ] Improve detection validation and testing.
-- [ ] Document edge cases and limitations.
-- [ ] Continue improving reusable SOC skills.
-
-## Contributions and feedback
-
-Found an incorrect verdict, unsupported assumption or an edge case?
-
-Open an issue in the relevant repository.
-
-Useful reports include:
-
-- A sanitized input example.
-- The generated output.
-- The unexpected behavior.
-- The expected behavior.
-
-Never include real credentials, confidential logs or sensitive organizational data.
-
-## Connect
-
-I'm interested in cybersecurity, SOC operations, detection engineering and practical AI automation.
-
-- LinkedIn: [Mohamed Benbouazza](https://www.linkedin.com/in/mohamedbenbouazza/)
-- GitHub: [mohamed-ai-sec](https://github.com/mohamed-ai-sec)
-- Substack: [Technical writing](https://substack.com/@benbouazza)
-- X: [@benbouazza_m](https://x.com/benbouazza_m)
-- Email: [mbenbouazzam@gmail.com](mailto:mbenbouazzam@gmail.com)
+Build logs, failures and release notes: [Substack](https://substack.com/@benbouazza) · [LinkedIn](https://www.linkedin.com/in/mohamedbenbouazza/) · [X](https://x.com/benbouazza_m)
 
 ---
 
 <div align="center">
 
-**Built in public. Documented with evidence. Open source.**
+**If one of these saved you a shift, star it. It helps other analysts find it.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8630A,45:0a1628,100:0D1117&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8630A,45:0a1628,100:0D1117&height=120&section=footer&text=Built%20in%20public.&fontSize=14&fontColor=8b949e&fontAlignY=60&reversal=true" width="100%"/>
 
 </div>
