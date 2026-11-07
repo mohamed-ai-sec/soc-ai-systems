@@ -22,60 +22,21 @@
 
 ## Who I am
 
-I'm Mohamed, a cybersecurity and network technician from Morocco. I studied at OFPPT-ISTA Khénifra (Technicien Spécialisé, Cybersécurité & Réseaux, 2022–2024).
-
-I came to SOC work from the network side. [Optional: I still work in the field on FTTH fiber deployment, so I know what a log source looks like before it becomes a log.] That's why I get annoyed at one thing in particular: analysts spend most of a shift doing the same four steps by hand.
-
-1. Read the alert.
-2. Pull context.
-3. Decide if it's real.
-4. Write it up.
-
-Steps 1 to 4 are repeatable. So I turned them into systems. Each one is a structured `SKILL.md` following the [agentskills.io](https://agentskills.io) standard: defined inputs, a decision framework, a fixed output format. You can read it, version it, and argue with it.
-
-**What I'm not:** a prompt seller, a vendor, or someone who thinks AI replaces analysts. These tools do the first pass. The analyst makes the call.
-
-I work in Darija, French, and English.
+Network-trained cybersecurity technician, Morocco. I turn repetitive SOC work into open-source AI systems: analysts decide, systems do the first pass.
 
 ---
 
-## See it work
+## The systems, in one picture
 
-> Replace this block with one real, sanitized run. This is the most important thing on the page.
+<div align="center">
 
-```text
-INPUT    [paste a short sanitized alert: e.g. encoded PowerShell from Office parent process]
+<img src="assets/pipeline.gif" alt="One alert flows through triage, report and detection systems, with an always-on analyst persona underneath" width="100%"/>
 
-VERDICT  [True Positive]        CONFIDENCE  [__%]
-WHY      [2–3 lines of evidence an analyst can verify in 10 seconds]
-MITRE    [T1059.001 · PowerShell]
-NEXT     [Escalate to L2 · attach IOCs]
-TIME     [__ seconds]
-```
-
-*A 20-second screen recording of this (GIF or video) beats every badge below.*
-
----
-
-## The pipeline
-
-```mermaid
-flowchart LR
-    A[Raw alert / log] --> B["soc-l1-triage-engine<br/>TP / FP verdict"]
-    B -->|escalate| C["soc-auto-report-skill<br/>IR report"]
-    C --> D["soc-detection-engineer-skill<br/>KQL · SPL · Sigma · EQL"]
-    B -->|close| E[Closed with evidence note]
-```
-
-Each piece works on its own. You don't need the whole chain.
-
----
-
-## Systems
+</div>
 
 | System | Problem it targets | Output | Activity |
 |:---|:---|:---|:---|
-| [**soc-l1-triage-engine**](https://github.com/mohamed-ai-sec/soc-l1-triage-engine) | L1 time lost on false positives | Confidence-scored TP / FP / Escalate verdict, MITRE-mapped, per-alert-type playbooks | ![stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-l1-triage-engine?style=flat-square&color=E8630A) ![commit](https://img.shields.io/github/last-commit/mohamed-ai-sec/soc-l1-triage-engine?style=flat-square) |
+| [**soc-l1-triage-engine**](https://github.com/mohamed-ai-sec/soc-l1-triage-engine) | L1 time lost on false positives | TP / FP / Escalate verdict with confidence, MITRE-mapped, per-alert-type playbooks | ![stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-l1-triage-engine?style=flat-square&color=E8630A) ![commit](https://img.shields.io/github/last-commit/mohamed-ai-sec/soc-l1-triage-engine?style=flat-square) |
 | [**soc-auto-report-skill**](https://github.com/mohamed-ai-sec/soc-auto-report-skill) | IR reports take hours and cost SLAs | 12-section incident report, exec brief, detection queries | ![stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-auto-report-skill?style=flat-square&color=E8630A) ![commit](https://img.shields.io/github/last-commit/mohamed-ai-sec/soc-auto-report-skill?style=flat-square) |
 | [**soc-detection-engineer-skill**](https://github.com/mohamed-ai-sec/soc-detection-engineer-skill) | Writing detection rules correctly takes days | Structured draft rules in KQL, SPL, Sigma, EQL | ![stars](https://img.shields.io/github/stars/mohamed-ai-sec/soc-detection-engineer-skill?style=flat-square&color=E8630A) ![commit](https://img.shields.io/github/last-commit/mohamed-ai-sec/soc-detection-engineer-skill?style=flat-square) |
 | [**sentinel-soc-ai**](https://github.com/mohamed-ai-sec/sentinel-soc-ai) | No senior analyst on every shift | L1 / L2 / L3 analyst persona for Sentinel-style workflows | ![stars](https://img.shields.io/github/stars/mohamed-ai-sec/sentinel-soc-ai?style=flat-square&color=E8630A) ![commit](https://img.shields.io/github/last-commit/mohamed-ai-sec/sentinel-soc-ai?style=flat-square) |
@@ -83,15 +44,47 @@ Each piece works on its own. You don't need the whole chain.
 
 ---
 
-## Deploy in about a minute
+## Use them in Claude
+
+<div align="center">
+
+<img src="assets/install-in-claude.gif" alt="Four steps: open Customize then Skills, plus then Create skill, upload the zip, toggle on and ask" width="100%"/>
+
+</div>
+
+1. **Open Customize → Skills** in Claude. Code execution and file creation must be on. *(Older versions: Settings → Capabilities → Skills.)*
+2. Click **+**, then **Create skill**.
+3. Choose **Upload a skill** and upload the ZIP.
+4. Toggle it on. Then ask: *"Use soc-l1-triage-engine on this alert: …"*
+
+**If the upload fails, it's almost always one of these:**
+- The ZIP must contain the skill folder as its root, with `SKILL.md` inside it.
+- The folder name must match the skill `name`. GitHub's **Download ZIP** names the root `repo-main`, so rename the folder first, then zip it again.
+- Skills you upload are private to your account and don't sync between claude.ai, Claude Code and the API.
+
+---
+
+## Why the output stays clean
+
+- **Fixed output format.** The model fills defined sections. It doesn't invent the structure.
+- **Rules you can read.** The logic lives in a `SKILL.md` you can open, diff and change. It isn't hidden in a chat.
+- **Works from what you paste.** Give it the alert, logs or headers. It reasons from those.
+- **Still verify.** This cuts guessing. It doesn't remove it.
+
+---
+
+## See it work
+
+> Replace this block with one real, sanitized run. It's the most important thing on the page.
 
 ```text
-1. Claude.ai → create a Project
-2. Project Instructions → paste the contents of SKILL.md
-3. Paste an alert. Read the verdict.
+INPUT    [sanitized alert]
+VERDICT  [True Positive]      CONFIDENCE  [__%]
+WHY      [2–3 lines of evidence an analyst can verify in 10 seconds]
+MITRE    [T1059.001 · PowerShell]
+NEXT     [Escalate to L2 · attach IOCs]
+TIME     [__ seconds]
 ```
-
-No API keys, no infrastructure. The `SKILL.md` format is portable under agentskills.io, so it also loads in [list the agents you've actually tested].
 
 ---
 
@@ -102,7 +95,7 @@ No API keys, no infrastructure. The `SKILL.md` format is portable under agentski
 - They don't replace L2 investigation.
 - [Add one real limit you found while testing.]
 
-If you catch a wrong verdict, open an issue with a sanitized sample. Those are the most useful contributions I get.
+Caught a wrong verdict? Open an issue with a sanitized sample. Those are the most useful contributions I get.
 
 ---
 
@@ -126,7 +119,7 @@ If you catch a wrong verdict, open an issue with a sanitized sample. Those are t
 
 - [ ] `soc-phishing-skill`: phishing analysis pipeline *(in progress)*
 - [ ] `soc-enrichment-agent`: IOC enrichment *(planned)*
-- [ ] Demo recordings for every system
+- [ ] Demo recording for every system
 - [ ] [Next real item, with a date only if you will hit it]
 
 ---
